@@ -26,40 +26,12 @@ export const sportsChannels: RawChannelData[] = [
     "groupTitle": "Sports",
     "url": "https://tvsen6.aynaott.com/asports/index.m3u8?e=1779631449&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e1927f7e219f74e24ce8eaf969bb69c4"
   },
-  {
-    "tvgId": "SonySportsTen3HD",
-    "tvgName": "Sony Sports Ten 3 HD",
-    "tvgLogo": "",
+    {
+    "tvgId": "WillowTV",
+    "tvgName": "Willow TV",
+    "tvgLogo": "https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788",
     "groupTitle": "Sports",
-    "url": "http://103.99.249.139/sonyten3/index.m3u8"
-  },
-  {
-    "tvgId": "StarSports1HD",
-    "tvgName": "Star Sports 1 HD",
-    "tvgLogo": "",
-    "groupTitle": "Sports",
-    "url": "http://41.205.93.154/STARSPORTS1/index.m3u8"
-  },
-  {
-    "tvgId": "StarSports1HD",
-    "tvgName": "Star Sports 1 HD",
-    "tvgLogo": "",
-    "groupTitle": "Sports",
-    "url": "http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8"
-  },
-  {
-    "tvgId": "WillowExtraLive",
-    "tvgName": "Willow Extra Live",
-    "tvgLogo": "",
-    "groupTitle": "Sports",
-    "url": "http://27.124.71.27/Willow_Extra/index.m3u8"
-  },
-  {
-    "tvgId": "MotorVision",
-    "tvgName": "Motor Vision",
-    "tvgLogo": "",
-    "groupTitle": "Sports",
-    "url": "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8"
+    "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1779631449&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=dd7b114180a8edb30863431634224067"
   },
   {
     "tvgId": "205000",
@@ -95,13 +67,6 @@ export const sportsChannels: RawChannelData[] = [
     "tvgLogo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778085745609.png",
     "groupTitle": "Sports",
     "url": "https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8"
-  },
-  {
-    "tvgId": "WillowTV",
-    "tvgName": "Willow TV",
-    "tvgLogo": "https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788",
-    "groupTitle": "Sports",
-    "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1779631449&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=dd7b114180a8edb30863431634224067"
   },
   {
     "tvgId": "MarqueeSportsNetwork",
@@ -263,5 +228,40 @@ export const sportsChannels: RawChannelData[] = [
     "tvgLogo": "https://s3.aynaott.com/storage/030ec528e912afb9a2ec3b4c5167a928",
     "groupTitle": "Sports",
     "url": "https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8"
-  }
-];
+  },
+  {
+    "tvgId": "SonySportsTen3HD",
+    "tvgName": "Sony Sports Ten 3 HD",
+    "tvgLogo": "",
+    "groupTitle": "Sports",
+    "url": "http://103.99.249.139/sonyten3/index.m3u8"
+  },
+  {
+    "tvgId": "StarSports1HD",
+    "tvgName": "Star Sports 1 HD",
+    "tvgLogo": "",
+    "groupTitle": "Sports",
+    "url": "http://41.205.93.154/STARSPORTS1/index.m3u8"
+  },
+  {
+    "tvgId": "StarSports1HD",
+    "tvgName": "Star Sports 1 HD",
+    "tvgLogo": "",
+    "groupTitle": "Sports",
+    "url": "http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8"
+  },
+  {
+    "tvgId": "WillowExtraLive",
+    "tvgName": "Willow Extra Live",
+    "tvgLogo": "",
+    "groupTitle": "Sports",
+    "url": "http://27.124.71.27/Willow_Extra/index.m3u8"
+  },
+  {
+    "tvgId": "MotorVision",
+    "tvgName": "Motor Vision",
+    "tvgLogo": "",
+    "groupTitle": "Sports",
+    "url": "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8"
+  },
+ ];
