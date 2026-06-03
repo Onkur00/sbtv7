@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;650;700&family=JetBrains+Mono:wght@400;500&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Space Grotesk", sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+}
+
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  background: #0d1321 url('./assets/background/bg.png') no-repeat center center scroll;
+  background-size: cover;
+  color: #f1f5f9;
+  font-family: var(--font-sans);
+  min-height: 100vh;
+}
+
+/* Custom scrollbar configurations */
+.scrollbar-thin::-webkit-scrollbar {
+  height: 5px;
+  width: 5px;
+}
+.scrollbar-thin::-webkit-scrollbar-track {
+  background: transparent;
+}
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 10px;
+}
+.scrollbar-thin::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.3);
+}
+.scrollbar-thin {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(255, 255, 255, 0.15) transparent;
+}
+
+/* Hide scrollbar completely */
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-none {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+/* Remote control keyboard focus highlight animations */
+.strip-item:focus,
+.strip-item:focus-visible,
+.category-btn:focus,
+.category-btn:focus-visible,
+.channel-logo-card:focus,
+.channel-logo-card:focus-visible,
+.fs-channel-item:focus,
+.fs-channel-item:focus-visible,
+#closePanelBtn:focus,
+#closePanelBtn:focus-visible,
+#fsToggleBtn:focus,
+#fsToggleBtn:focus-visible,
+#playPauseBtn:focus,
+#playPauseBtn:focus-visible,
+#searchInput:focus,
+#qualityBtn:focus,
+#qualityBtn:focus-visible,
+.quality-opt-btn:focus,
+.quality-opt-btn:focus-visible {
+  outline: 2px solid rgba(255, 255, 255, 0.4) !important;
+  outline-offset: 2px;
+  background-color: #1e293b !important;
+  transform: scale(1.01);
+  box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1) !important;
+}
+
+/* Native Fullscreen configuration and forced auto-rotation */
+#videoPlayerOuterContainer:fullscreen {
+  width: 100% !important;
+  height: 100% !important;
+  max-width: none !important;
+  padding: 0 !important;
+  border: 0 !important;
+  border-radius: 0 !important;
+  background: #0d1321 url('./assets/background/bg.png') no-repeat center center scroll !important;
+  background-size: cover !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  overflow: hidden !important;
+}
+
+/* If native fullscreen is active and it is mobile portrait, rotate by 90deg */
+@media (max-width: 1023px) and (orientation: portrait) {
+  #videoPlayerOuterContainer:fullscreen {
+    width: 100vh !important;
+    height: 100vw !important;
+    transform: rotate(90deg) !important;
+    transform-origin: center !important;
+  }
+}
+
