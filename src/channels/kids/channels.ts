@@ -6,34 +6,6 @@ import { RawChannelData } from '../../types.ts';
 
 export const kidsChannels: RawChannelData[] = [
   {
-    "tvgId": "RongeenTV",
-    "tvgName": "Rongeen TV",
-    "tvgLogo": "",
-    "groupTitle": "Kids",
-    "url": "https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8"
-  },
-  {
-    "tvgId": "MotuPatlu",
-    "tvgName": "Motu Patlu",
-    "tvgLogo": "",
-    "groupTitle": "Kids",
-    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8"
-  },
-  {
-    "tvgId": "SonyATTH",
-    "tvgName": "Sony ATTH",
-    "tvgLogo": "https://s3.aynaott.com/storage/f7bfca4f0a3860067bf2eac37f41214c",
-    "groupTitle": "Kids",
-    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8"
-  },
-  {
-    "tvgId": "GopalBhar",
-    "tvgName": "Gopal Bhar",
-    "tvgLogo": "",
-    "groupTitle": "Kids",
-    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8"
-  },
-  {
     "tvgId": "212000",
     "tvgName": "BuddyStar HD",
     "tvgLogo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379038530.png",
@@ -235,6 +207,34 @@ export const kidsChannels: RawChannelData[] = [
     "tvgLogo": "https://s3.aynaott.com/storage/d79d89851faee0823a1f2bed1a96e84d",
     "groupTitle": "Kids",
     "url": "https://tvsen6.aynaott.com/ytv/index.m3u8?e=1779631453&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3438e0e92d4bf91656bb2c75de0e1bc0"
+  },
+    {
+    "tvgId": "RongeenTV",
+    "tvgName": "Rongeen TV",
+    "tvgLogo": "",
+    "groupTitle": "Kids",
+    "url": "https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "tvgId": "MotuPatlu",
+    "tvgName": "Motu Patlu",
+    "tvgLogo": "",
+    "groupTitle": "Kids",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8"
+  },
+  {
+    "tvgId": "SonyATTH",
+    "tvgName": "Sony ATTH",
+    "tvgLogo": "https://s3.aynaott.com/storage/f7bfca4f0a3860067bf2eac37f41214c",
+    "groupTitle": "Kids",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8"
+  },
+  {
+    "tvgId": "GopalBhar",
+    "tvgName": "Gopal Bhar",
+    "tvgLogo": "",
+    "groupTitle": "Kids",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8"
   },
   {
     "tvgId": "TVCARiBKidsTeens",
