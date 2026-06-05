@@ -5,6 +5,13 @@
 import { RawChannelData } from '../../types.ts';
 
 export const sportsChannels: RawChannelData[] = [
+    {
+    "tvgId": "world-cups",
+    "tvgName": "world-cup",
+    "tvgLogo": "https://www.foxsports.com/stories/soccer/fifa-unveils-official-logo-campaign-for-2026-world-cup",
+    "groupTitle": "Sports",
+    "url": "https://www.youtube.com/watch?v=RDtdVQgB9ME"
+  },
   {
     "tvgId": "TSportsHD",
     "tvgName": "T Sports HD",
