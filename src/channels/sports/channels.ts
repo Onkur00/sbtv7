@@ -8,7 +8,7 @@ export const sportsChannels: RawChannelData[] = [
     {
     "tvgId": "world-cups",
     "tvgName": "world-cup",
-    "tvgLogo": "https://www.foxsports.com/stories/soccer/fifa-unveils-official-logo-campaign-for-2026-world-cup",
+    "tvgLogo": "https://images.storyboard18.com/storyboard18/2026/05/Vis-2026-05-13T180321.773-2026-05-1169af7dfcdd146c0b3dbaf00cd4b175-1019x573.png",
     "groupTitle": "Sports",
     "url": "https://media.contra.com/video/upload/fl_progressive/c_limit,q_auto:best,w_600/xfygs2yikctjhjlp0vfl.mp4"
   },
