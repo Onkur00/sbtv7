@@ -5,20 +5,7 @@
 import { RawChannelData } from '../../types.ts';
 
 export const banglaChannels: RawChannelData[] = [
-  {
-    "tvgId": "EkusheyTV",
-    "tvgName": "Ekushey TV",
-    "tvgLogo": "https://s4.gifyu.com/images/image534fa27d7683f33d.png",
-    "groupTitle": "bangla",
-    "url": "http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8"
-  },
-  {
-    "tvgId": "DesheBideshe",
-    "tvgName": "Deshe Bideshe",
-    "tvgLogo": "https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg",
-    "groupTitle": "bangla",
-    "url": "https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8"
-  },
+  
   {
     "tvgId": "229000",
     "tvgName": "Maasranga TV",
