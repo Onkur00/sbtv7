@@ -64,7 +64,7 @@ export const newsChannels: RawChannelData[] = [
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8"
   },
   {
-    "tvgId": "93000",
+    "tvgId": "ATNnews",
     "tvgName": "ATN News",
     "tvgLogo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png",
     "groupTitle": "News",
