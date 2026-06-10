@@ -1,3 +1,4 @@
+
 /**
  * Channel Playlist for Category: BANGLA
  */
@@ -5,6 +6,8 @@
 import { RawChannelData } from '../../types.ts';
 
 export const banglaChannels: RawChannelData[] = [
+
+
   
   {
     "tvgId": "229000",
@@ -54,55 +57,6 @@ export const banglaChannels: RawChannelData[] = [
     "tvgLogo": "https://s3.aynaott.com/storage/342b1a51814ed9946fe36ac4999d82a2",
     "groupTitle": "bangla",
     "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8"
-  },
-  {
-    "tvgId": "ATNBangla",
-    "tvgName": "ATN Bangla",
-    "tvgLogo": "https://s3.aynaott.com/storage/eff41809fca04f7c1da5481e135d7913",
-    "groupTitle": "Bangla",
-    "url": "https://tvsen5.aynaott.com/atnbangla/index.m3u8?e=1779631447&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=13686b9b7f2dd71c91d8a0041a027160"
-  },
-  {
-    "tvgId": "BTVNATIONALHD",
-    "tvgName": "BTV NATIONAL HD",
-    "tvgLogo": "https://s3.aynaott.com/storage/9b6f35f73a099b7a5885a970523c5f78",
-    "groupTitle": "Bangla",
-    "url": "https://tvsen6.aynaott.com/btvhd/index.m3u8?e=1779631447&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fd2bde4f794c7a9d03b67456c6e7a242"
-  },
-  {
-    "tvgId": "BTVCTG",
-    "tvgName": "BTV CTG",
-    "tvgLogo": "https://s3.aynaott.com/storage/00da8a07fb26b2fb79359ee535e4c7bc",
-    "groupTitle": "Bangla",
-    "url": "https://tvsen6.aynaott.com/btvctg/index.m3u8?e=1779631447&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=25d4523423a8f4ff68ae9fa60aa8dd73"
-  },
-  {
-    "tvgId": "RTV",
-    "tvgName": "RTV",
-    "tvgLogo": "https://s3.aynaott.com/storage/094587a26f2c5e4f2962104728ec8c5d",
-    "groupTitle": "Bangla",
-    "url": "https://tvsen5.aynaott.com/RtvHD/index.m3u8?e=1779631447&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=45698b7c5f933dc648fd51856345e927"
-  },
-  {
-    "tvgId": "ETV",
-    "tvgName": "ETV",
-    "tvgLogo": "https://s3.aynaott.com/storage/8a1af81802b0728c064c2adabcdc72c8",
-    "groupTitle": "Bangla",
-    "url": "https://tvsen6.aynaott.com/etv/index.m3u8?e=1779631447&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fdf9d3a370ddf25a4bf6c73512722361"
-  },
-  {
-    "tvgId": "GreenTVHD",
-    "tvgName": "Green TV HD",
-    "tvgLogo": "https://s3.aynaott.com/storage/499219599639007120dc540bdc6e7d9d",
-    "groupTitle": "Bangla",
-    "url": "https://tvsen6.aynaott.com/GreenTvHD/index.m3u8?e=1779631452&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5f7b85ff5a85c3131cf00b71051e6f5e"
-  },
-  {
-    "tvgId": "BoishakhiTV",
-    "tvgName": "Boishakhi TV",
-    "tvgLogo": "",
-    "groupTitle": "Bangla",
-    "url": "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8"
   },
   {
     "tvgId": "DeshiTV720p",
