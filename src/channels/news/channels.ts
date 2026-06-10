@@ -134,13 +134,6 @@ export const newsChannels: RawChannelData[] = [
     "url": "https://tvsen6.aynaott.com/ekhontv/index.m3u8?e=1779631448&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6af68caad9bd7eb2d8c636ff17b7a9ff"
   },
   {
-    "tvgId": "JumunaTV",
-    "tvgName": "Jumuna TV",
-    "tvgLogo": "",
-    "groupTitle": "News",
-    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8"
-  },
-  {
     "tvgId": "GSeriesDrama",
     "tvgName": "G Series Drama",
     "tvgLogo": "",
