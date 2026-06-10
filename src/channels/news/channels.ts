@@ -43,13 +43,6 @@ export const newsChannels: RawChannelData[] = [
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8"
   },
   {
-    "tvgId": "93000",
-    "tvgName": "ATN News",
-    "tvgLogo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png",
-    "groupTitle": "News",
-    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8"
-  },
-  {
     "tvgId": "186000",
     "tvgName": "News 24 HD",
     "tvgLogo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186895850.png",
@@ -69,6 +62,13 @@ export const newsChannels: RawChannelData[] = [
     "tvgLogo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png",
     "groupTitle": "News",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8"
+  },
+  {
+    "tvgId": "93000",
+    "tvgName": "ATN News",
+    "tvgLogo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png",
+    "groupTitle": "News",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8"
   },
   {
     "tvgId": "ATNBangla",
