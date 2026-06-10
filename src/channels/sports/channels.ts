@@ -48,14 +48,7 @@ export const sportsChannels: RawChannelData[] = [
     "groupTitle": "Sports",
     "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1779631449&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=dd7b114180a8edb30863431634224067"
   },
-  {
-    "tvgId": "KTVSportPlus",
-    "tvgName": "KTV Sport Plus",
-    "tvgLogo": "https://s3.aynaott.com/storage/b54495ee3cdd53ddaa19d1f98120f488",
-    "groupTitle": "Sports",
-    "url": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8"
-  },
-    {
+   {
     "tvgId": "TSN1",
     "tvgName": "TSN 1",
     "tvgLogo": "https://s3.aynaott.com/storage/59fe7ff434fed04ecec29b4d737ebc95",
@@ -117,6 +110,13 @@ export const sportsChannels: RawChannelData[] = [
     "tvgLogo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380791303.png",
     "groupTitle": "Sports",
     "url": "https://nomawnoijl.gpcdn.net/akash/thunder/playlist.m3u8"
+  },
+   {
+    "tvgId": "KTVSportPlus",
+    "tvgName": "KTV Sport Plus",
+    "tvgLogo": "https://s3.aynaott.com/storage/b54495ee3cdd53ddaa19d1f98120f488",
+    "groupTitle": "Sports",
+    "url": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8"
   },
   {
     "tvgId": "244000",
