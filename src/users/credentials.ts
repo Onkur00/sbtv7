@@ -6,6 +6,31 @@ export interface UserCredential {
 }
 
 export const userCredentials: UserCredential[] = [
+  
+  {
+    username: "",
+    password: "",
+    deviceLimit: 3,
+    displayName: "SB User 0"
+  },
+  {
+    username: "",
+    password: "",
+    deviceLimit: 3,
+    displayName: "SB User 0"
+  },
+  {
+    username: "",
+    password: "",
+    deviceLimit: 3,
+    displayName: "SB User 0"
+  },
+  {
+    username: "sb304",
+    password: "7597",
+    deviceLimit: 3,
+    displayName: "SB User 0"
+  },
   {
     username: "sb1767",
     password: "5563",
