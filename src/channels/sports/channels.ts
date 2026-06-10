@@ -10,15 +10,6 @@ export const sportsChannels: RawChannelData[] = [
 
 
 
-
-
- {
-    "tvgId": "fghjk",
-    "tvgName": "world-cup",
-    "tvgLogo": "",
-    "groupTitle": "Sports",
-    "url": "https://allinonereborn.online/sony/ptest.php?id=sab-hd"
-  },
   {
     "tvgId": "world-cups",
     "tvgName": "world-cup",
