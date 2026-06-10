@@ -17,6 +17,13 @@ export const sportsChannels: RawChannelData[] = [
     "groupTitle": "Sports",
     "url": "https://media.contra.com/video/upload/fl_progressive/c_limit,q_auto:best,w_600/xfygs2yikctjhjlp0vfl.mp4"
   },
+   {
+    "tvgId": "fghjk",
+    "tvgName": "world-cup",
+    "tvgLogo": "",
+    "groupTitle": "Sports",
+    "url": "https://allinonereborn.online/sony/ptest.php?id=sab-hd"
+  },
   {
     "tvgId": "TSportsHD",
     "tvgName": "T Sports HD",
