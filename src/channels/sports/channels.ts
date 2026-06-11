@@ -15,7 +15,7 @@ export const sportsChannels: RawChannelData[] = [
     "tvgName": "world-cup",
     "tvgLogo": "https://images.storyboard18.com/storyboard18/2026/05/Vis-2026-05-13T180321.773-2026-05-1169af7dfcdd146c0b3dbaf00cd4b175-1019x573.png",
     "groupTitle": "Sports",
-    "url": "https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1779631449&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=523d21a9aeaeb0243c2e159a59282853"
+    "url": "https://live.kooran1.cfd/live1/index.m3u8"
   },
   {
     "tvgId": "TSportsHD",
