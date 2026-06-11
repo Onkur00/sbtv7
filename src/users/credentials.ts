@@ -6,6 +6,8 @@ export interface UserCredential {
 }
 
 export const userCredentials: UserCredential[] = [
+
+  
   
   {
     username: "sb938",
@@ -19,112 +21,4 @@ export const userCredentials: UserCredential[] = [
     deviceLimit: 3,
     displayName: "sb245"
   },
-  {
-    username: "sb1425",
-    password: "6778",
-    deviceLimit: 3,
-    displayName: "sb1425"
-  },
-  {
-    username: "sb2298",
-    password: "9533",
-    deviceLimit: 3,
-    displayName: "SB User 0"
-  },
-  {
-    username: "sb582",
-    password: "3581",
-    deviceLimit: 3,
-    displayName: "SB User 0"
-  },
-  {
-    username: "sb1767",
-    password: "5563",
-    deviceLimit: 3,
-    displayName: "SB User 0"
-  },
-  {
-    username: "sb150",
-    password: "5169",
-    deviceLimit: 3,
-    displayName: "SB User 0"
-  },
-  {
-    username: "sb304",
-    password: "7597",
-    deviceLimit: 3,
-    displayName: "SB User 0"
-  },
-  {
-    username: "sb1767",
-    password: "5563",
-    deviceLimit: 3,
-    displayName: "SB User 0"
-  },
-  {
-    username: "sb1656",
-    password: "1202",
-    deviceLimit: 3,
-    displayName: "SB User 0"
-  },
-  {
-    username: "sb715",
-    password: "5317",
-    deviceLimit: 3,
-    displayName: "SB User 0"
-  },
-  {
-    username: "sb547",
-    password: "7707",
-    deviceLimit: 3,
-    displayName: "SB User 0"
-  },
-  {
-    username: "sb0",
-    password: "0000",
-    deviceLimit: 3,
-    displayName: "SB User 0"
-  },
-    {
-    username: "1840",
-    password: "9465",
-    deviceLimit: 1,
-    displayName: "Guest Member"
-  },
-  {
-    username: "sb539",
-    password: "1234",
-    deviceLimit: 3,
-    displayName: "SB User 539"
-  },
-  {
-    username: "sb1001",
-    password: "7070",
-    deviceLimit: 2,
-    displayName: ""
-  },
-  {
-    username: "sb499",
-    password: "5585",
-    deviceLimit: 5,
-    displayName: "Global Admin"
-  },
-  {
-    username: "guest",
-    password: "5555",
-    deviceLimit: 1,
-    displayName: "Guest Member"
-  },
-  {
-    username: "sb655",
-    password: "5270",
-    deviceLimit: 4,
-    displayName: "Live Stream OP"
-  },
-  {
-    username: "sb728",
-    password: "4826",
-    deviceLimit: 3,
-    displayName: "sb728"
-  }
 ];
