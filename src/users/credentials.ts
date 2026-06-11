@@ -8,8 +8,8 @@ export interface UserCredential {
 export const userCredentials: UserCredential[] = [
   
   {
-    username: "",
-    password: "",
+    username: "sb2289",
+    password: "9533",
     deviceLimit: 3,
     displayName: "SB User 0"
   },
