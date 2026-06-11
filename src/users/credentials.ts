@@ -40,6 +40,12 @@ export const userCredentials: UserCredential[] = [
     displayName: "SB User"
   },
   {
+    username: "sb2435",
+    password: "8332",
+    deviceLimit: 5,
+    displayName: "SB User"
+  },
+  {
     username: "guest",
     password: "5555",
     deviceLimit: 1,
