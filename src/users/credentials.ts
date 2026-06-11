@@ -8,9 +8,6 @@ export interface UserCredential {
 export const userCredentials: UserCredential[] = [
 
 
-
-
-
   {
     username: "",
     password: "0000",
