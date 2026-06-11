@@ -8,6 +8,9 @@ export interface UserCredential {
 export const userCredentials: UserCredential[] = [
 
 
+
+
+
   {
     username: "sb715",
     password: "5317",
@@ -49,6 +52,66 @@ export const userCredentials: UserCredential[] = [
     password: "5270",
     deviceLimit: 4,
     displayName: "SB User"
+  },
+    {
+    username: "sb938",
+    password: "0104",
+    deviceLimit: 3,
+    displayName: "sb938"
+  },
+  {
+    username: "sb245",
+    password: "1234",
+    deviceLimit: 3,
+    displayName: "sb245"
+  },
+  {
+    username: "sb1425",
+    password: "6778",
+    deviceLimit: 3,
+    displayName: "sb1425"
+  },
+  {
+    username: "sb2298",
+    password: "9533",
+    deviceLimit: 3,
+    displayName: "SB User 0"
+  },
+  {
+    username: "sb582",
+    password: "3581",
+    deviceLimit: 3,
+    displayName: "SB User 0"
+  },
+  {
+    username: "sb1767",
+    password: "5563",
+    deviceLimit: 3,
+    displayName: "SB User 0"
+  },
+  {
+    username: "sb150",
+    password: "5169",
+    deviceLimit: 3,
+    displayName: "SB User 0"
+  },
+  {
+    username: "sb304",
+    password: "7597",
+    deviceLimit: 3,
+    displayName: "SB User 0"
+  },
+  {
+    username: "sb1767",
+    password: "5563",
+    deviceLimit: 3,
+    displayName: "SB User 0"
+  },
+  {
+    username: "sb1656",
+    password: "1202",
+    deviceLimit: 3,
+    displayName: "SB User 0"
   },
   {
     username: "sb728",
