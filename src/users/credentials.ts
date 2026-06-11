@@ -6,7 +6,6 @@ export interface UserCredential {
 }
 
 export const userCredentials: UserCredential[] = [
-
   
   {
     username: "sb938",
