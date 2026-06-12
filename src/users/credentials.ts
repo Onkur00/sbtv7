@@ -9,8 +9,7 @@ export const userCredentials: UserCredential[] = [
 
 
 
-  
-[
+
   {
     "username": "sb0",
     "password": "",
