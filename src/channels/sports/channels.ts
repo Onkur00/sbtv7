@@ -22,14 +22,15 @@ export const sportsChannels: RawChannelData[] = [
     "tvgName": "T Sports HD",
     "tvgLogo": "https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4",
     "groupTitle": "Sports",
-    "url": "http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts"
+    "url": "https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8"
   },
   {
     "tvgId": "PTVSports",
     "tvgName": "PTV Sports",
     "tvgLogo": "https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014",
     "groupTitle": "Sports",
-    "url": "https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1779631449&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=523d21a9aeaeb0243c2e159a59282853"
+    "url": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+"
   },
   {
     "tvgId": "Asports",
