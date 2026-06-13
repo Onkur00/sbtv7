@@ -4313,7 +4313,7 @@ export const userCredentials: UserCredential[] = [
   },
   {
     "username": "sb715",
-    "password": "",
+    "password": "5317",
     "deviceLimit": 5,
     "displayName": "sb715"
   },
