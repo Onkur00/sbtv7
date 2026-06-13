@@ -15,7 +15,7 @@ export const sportsChannels: RawChannelData[] = [
     "tvgName": "world-cup",
     "tvgLogo": "https://images.storyboard18.com/storyboard18/2026/05/Vis-2026-05-13T180321.773-2026-05-1169af7dfcdd146c0b3dbaf00cd4b175-1019x573.png",
     "groupTitle": "Sports",
-    "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
+    "url": "https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014"
   },
   {
     "tvgId": "TSportsHD",
