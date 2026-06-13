@@ -29,8 +29,7 @@ export const sportsChannels: RawChannelData[] = [
     "tvgName": "PTV Sports",
     "tvgLogo": "https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014",
     "groupTitle": "Sports",
-    "url": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
-"
+    "url": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8"
   },
   {
     "tvgId": "Asports",
