@@ -22,7 +22,7 @@ export const sportsChannels: RawChannelData[] = [
     "tvgName": "T Sports HD",
     "tvgLogo": "https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4",
     "groupTitle": "Sports",
-    "url": "https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8"
+    "url": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8"
   },
   {
     "tvgId": "PTVSports",
