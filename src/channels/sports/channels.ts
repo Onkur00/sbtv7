@@ -20,21 +20,21 @@ export const sportsChannels: RawChannelData[] = [
   {
     "tvgId": "TSportsHD",
     "tvgName": "T Sports HD",
-    "tvgLogo": "https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4",
+    "tvgLogo": "https://images.storyboard18.com/storyboard18/2026/05/Vis-2026-05-13T180321.773-2026-05-1169af7dfcdd146c0b3dbaf00cd4b175-1019x573.png",
     "groupTitle": "Sports",
     "url": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8"
   },
   {
     "tvgId": "PTVSports",
     "tvgName": "PTV Sports",
-    "tvgLogo": "https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014",
+    "tvgLogo": "https://images.storyboard18.com/storyboard18/2026/05/Vis-2026-05-13T180321.773-2026-05-1169af7dfcdd146c0b3dbaf00cd4b175-1019x573.png",
     "groupTitle": "Sports",
     "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
   },
   {
     "tvgId": "Asports",
     "tvgName": "A sports",
-    "tvgLogo": "https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b",
+    "tvgLogo": "https://images.storyboard18.com/storyboard18/2026/05/Vis-2026-05-13T180321.773-2026-05-1169af7dfcdd146c0b3dbaf00cd4b175-1019x573.png",
     "groupTitle": "Sports",
     "url": "https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8"
   },
