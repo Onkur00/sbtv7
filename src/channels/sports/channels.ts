@@ -36,7 +36,7 @@ export const sportsChannels: RawChannelData[] = [
     "tvgName": "A sports",
     "tvgLogo": "https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b",
     "groupTitle": "Sports",
-    "url": "https://tvsen6.aynaott.com/asports/index.m3u8?e=1779631449&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e1927f7e219f74e24ce8eaf969bb69c4"
+    "url": "https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8"
   },
   {
     "tvgId": "WillowTV",
